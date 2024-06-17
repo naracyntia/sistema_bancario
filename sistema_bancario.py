@@ -10,7 +10,7 @@ menu = """
 saldo = 0
 limite = 1500
 extrato = ""
-numero_saques = 5
+numero_saques = 4
 LIMITE_SAQUES = 300
 
 while True:
